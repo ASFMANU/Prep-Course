@@ -1,0 +1,5 @@
+* Variable: Espacio guardado en la memoria como contenedor que se crea para guardar cosas y despues utilizarla.
+* String: Cadena de caracteres.
+* Funciones: Son tipos particulares de objetos, que nos ayuda a reutilizar codigo.
+* Declaraciones 'IF': Son cotroles de flujo de codigo el cual se cumple si es true un bloque de codigo o si el false oto bloque de codigo.
+* Valores Booleanos ('True' , 'False'): es un tipo de dato el cual devuelve valores "Verdadero - True" o "Falso - false" segun se lo asignado.
