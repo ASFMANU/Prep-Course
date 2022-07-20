@@ -1,0 +1,1 @@
+* Arrays: Es un objeto como conjunto de datos ordenados o listas el cual con sus métodos puedes manipular el contenido y puede almacenar cualquier tipo de dato o incluso objetos y funciones.
