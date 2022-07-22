@@ -1,0 +1,5 @@
+* Objeto: Es un contenedor de datos ordenados como los arrays con ciertas diferencias mientras el arrays solo almacena datos específicos, los objetos puede tener mucha información de una sola cosa.
+* Propiedades: son las características que normalmente tiene un objeto, estos están definidas por un key:value se define cada clave: valor con una asignación de dos puntos y cada propiedad se separa con comas. Como por ejemplo Nombre de una persona es “Pedro”, persona vendría ser el objeto y su nombre una propiedad.
+* Metodos: son las acciones que puede ejecutar un objeto como la persona que saluda dice “HOLA!”.
+* Bucle `for…in`: Es un bucle integrado de js y sirve para recorrer objetos ya que el “FOR” tradicional no puede usarse en objetos ya que los objetos no tienen índices numéricos por tanto usarías este método para recorrer los objetos.
+* Notación de puntos vs notación de corchetes: Son notaciones para llamar al valor de las propiedades, mientras que la Notación de puntos funciona como si llamaras una propiedad como .length, mientras la Notación de Corchetes se usa comillas para llamar a la función que envuelve o variables, números o cadenas.
