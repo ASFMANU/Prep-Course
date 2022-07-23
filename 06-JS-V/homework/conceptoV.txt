@@ -1,0 +1,3 @@
+* prototype:  cada función y objeto tiene una propiedad denominada prototipo por defecto, se puede usar un prototipo para agregar propiedades y métodos a una función constructora. Y los objetos heredan propiedades y métodos de un prototipo.
+
+* constructor: Es un tipo especial de método de una clase, que se ejecuta automáticamente a la hora de hacer un new de dicha clase.
